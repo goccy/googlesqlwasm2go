@@ -1,5 +1,5 @@
 GOOGLESQL_WASM_REPO     ?= goccy/googlesql-wasm
-GOOGLESQL_WASM_VERSION  ?= v0.3.0
+GOOGLESQL_WASM_VERSION  ?= v0.3.4
 GOOGLESQL_WASM_WORKFLOW ?= goccy/googlesql-wasm/.github/workflows/build.yml
 
 TARBALL          := googlesql_wasm2go.tar.gz
